@@ -1,10 +1,5 @@
 name: Python Unittest
 
-#on:
-#  push:
-#    branches:
-#      - main
-
 on:
   workflow_dispatch:
 
